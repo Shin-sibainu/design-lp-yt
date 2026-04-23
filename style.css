@@ -48,7 +48,7 @@ button{font:inherit;cursor:pointer;border:none;background:none;color:inherit}
 .nav-cta .icn{width:16px;height:16px;opacity:.9}
 
 /* ===== HERO ===== */
-.hero{position:relative;padding:60px 0 80px;overflow:hidden}
+.hero{position:relative;padding:90px 0 80px;overflow:hidden}
 /* Section reveal */
 .reveal{opacity:0;transform:translateY(28px);transition:opacity .9s cubic-bezier(.2,.7,.2,1), transform .9s cubic-bezier(.2,.7,.2,1)}
 .reveal.in{opacity:1;transform:none}
